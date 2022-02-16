@@ -4,7 +4,7 @@
 - [2021/02/18 MicrosoftがGitHubで実践するインナーソースの取り組みとは？【デブサミ2021】](https://codezine.jp/article/detail/13685)
 - [Visual Studio 2022 × GitHub Codespaces × Azureで、デベロッパー・エコシステムを盛り上げろ！](https://zine.qiita.com/interview/202111-microsoft-github/)
 - [2020/02/13 GitHubやMicrosoftが機能リリースする舞台裏](https://codezine.jp/article/detail/12089)
-
+https://www.slideshare.net/ssusercd7b97/githubmicrosoft?next_slideshow=true
 - [https://thinkit.co.jp/article/17316](https://thinkit.co.jp/article/17316)
 
 - [サーバー管理不要！Azure PaaS ではじめる、モダンWeb/Mobile アプリケーション開発のベストプラクティス](https://www.sbbit.jp/eventinfo/43087)
@@ -20,6 +20,8 @@ MS Ignite The Tour MOD40 本番アプリケーションをデバッグし繰り�
 MS Ignite The Tour MOD50 DevOps でアプリケーションデリバリーを管理しよう
 MS Ignite The Tour NoOps & NoOps Japan コミュニティ入門
 
+[Code to Cloud! -開発環境クラウド化!]
+https://atmarkit.itmedia.co.jp/ait/articles/2104/22/news010.html
 ### :mega: Webinar
 
 
@@ -39,3 +41,4 @@ Agile Labs - Company Internal 300 + Members and 2000 + attendees in total
 - [月額わずか数万円、3カ月の超スピードでアプリをリリース。ガス会社の事例に学ぶ『クラウド時代の新規事業のやり方』とは](https://www.itmedia.co.jp/business/articles/2107/08/news002.html)
 - [事例](https://customers.microsoft.com/ja-jp/story/1419627181105204902-tobu-gas-ja-japan)
 - [なんちゃって Agile 事例](https://news.mynavi.jp/techplus/kikaku/azure_case_td-83/)
+- [IT人材不足が約43万人に拡大する2025年に向け、DXを支える開発者に快適な環境とツールが必要な理由](https://atmarkit.itmedia.co.jp/ait/articles/2004/07/news004.html)
