@@ -11,6 +11,12 @@
 - [2019/10/05 CEDEC ゲーム開発環境、もっと楽にできるよ♬ マイクロソフト本社仕込みの DevOps でゲーム開発を脱人力化しよう！](https://sapporo.cedec.jp/session/ss07/)
 - [2016/11/07 クラウド時代には、なぜ「ログ分析」が重要になるのか――高度なログ分析機能を、すぐに、簡単に使えるMicrosoft Operations Management Suite](https://atmarkit.itmedia.co.jp/ait/articles/1611/07/news010.html)
 - [2018/12/19 オンプレLAMP環境を低コストで高可用なAzure PaaSへ移行しよう！](https://ascii.jp/elem/000/001/771/1771907/3/)
+- [App Debug]
+Microsoft de:code 2018 戦う情シス全社APIで社内アプリ開発を加速させよう (AD07) KAO
+Microsoft de:cpde 2020 GitHub と Azure Security Center による、アプリケーションのための Azure セキュリティ
+Microsoft TechSummit 2020 今日から始める Azure Functions 2.0 https://www.youtube.com/watch?v=_Rz7QKTbDvI
+Microsoft TechSummit 2020 モバイル アプリの開発/運用を Visual Studio App Center と Azure で加速させよう! 
+### :mega: Webinar
 
 
 ### :mega: Interview
