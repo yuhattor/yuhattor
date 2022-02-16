@@ -16,7 +16,17 @@ Microsoft de:code 2018 戦う情シス全社APIで社内アプリ開発を加速
 Microsoft de:cpde 2020 GitHub と Azure Security Center による、アプリケーションのための Azure セキュリティ
 Microsoft TechSummit 2020 今日から始める Azure Functions 2.0 https://www.youtube.com/watch?v=_Rz7QKTbDvI
 Microsoft TechSummit 2020 モバイル アプリの開発/運用を Visual Studio App Center と Azure で加速させよう! 
+MS Ignite The Tour MOD40 本番アプリケーションをデバッグし繰り返し改善する
+MS Ignite The Tour MOD50 DevOps でアプリケーションデリバリーを管理しよう
+MS Ignite The Tour NoOps & NoOps Japan コミュニティ入門
+
 ### :mega: Webinar
+
+
+### : Community
+NoOps Community Lead
+Azure Compete Community - Comapany Internal 400+ Members and 2000+ attendees in total.
+Agile Labs - Company Internal 300 + Members and 2000 + attendees in total
 
 
 ### :mega: Interview
