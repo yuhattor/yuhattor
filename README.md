@@ -13,7 +13,7 @@
 - 2019/12/05 **[Microsoft Ignite The Tour 2019](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/microsoft-ignite-the-tour-2019-highlights-from-paris-tokyo/ba-p/1068875)** ```NoOps``` Introduction to NoOps & NoOps Japan Community
 - 2019/10/05 **[CEDEC 2019](https://sapporo.cedec.jp/session/ss07/)** ```SS07``` Let's make game development easier with DevOps 
 - 2018/05/22 **[Microsoft de:code 2018](https://www.microsoft.com/ja-jp/events/decode/2018/overview.aspx)** ```AD07``` Let's accelerate the development of in-house applications with the company-wide API
-- 2018/11/05 **[Microsoft Tech Summit 2018](https://www.microsoft.com/ja-jp/events/techsummit/2018/about.aspx)** ```AD18``` [```:movie_camera: Video```](https://www.youtube.com/watch?v=_Rz7QKTbDvI) [```resource```](https://www.slideshare.net/ssusercd7b97/azure-functions-20) Get started today with Azure Functions 2.0 
+- 2018/11/05 **[Microsoft Tech Summit 2018](https://www.microsoft.com/ja-jp/events/techsummit/2018/about.aspx)** ```AD18``` [```Video```](https://www.youtube.com/watch?v=_Rz7QKTbDvI) [```resource```](https://www.slideshare.net/ssusercd7b97/azure-functions-20) Get started today with Azure Functions 2.0 
 - 2018/11/05 **[Microsoft Tech Summit 2018](https://www.microsoft.com/ja-jp/events/techsummit/2018/about.aspx)** ```AD01``` [```resource```](https://www.slideshare.net/ssusercd7b97/visual-studio-app-center-azure) Accelerate your mobile app development and operations with Visual Studio App Center and Azure! 
 - 2017/11/28 **[Microsoft Azure 徹底活用フェス](https://www.sbbit.jp/eventinfo/43087)** Best Practices for Modern Web/Mobile Application Development in Azure PaaS
 
