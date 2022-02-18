@@ -22,9 +22,9 @@
 
 - 2021/09/22 **[クラウドにおけるコンテナ移行のすすめ](https://aka.ms/Container0922JP)** Recommendations for Container Migration in the Cloud
 - On Demand **[App Innovation](https://info.microsoft.com/JA-AzureApp-WBNR-FY20-04Apr-23-AzureAppInnovationMeetAzureforDevelopers-SRDEM19296_LP02OnDemandRegistration-ForminBody.html)** Let's use git repository and CI/CD tools
+- 2020/03/27 **[「エンジニア」のためのリモートワーク](https://contacts.nissho-ele.co.jp/Azure_GitHub_20200327_LP.html)** Let's promote the reform of the working style of engineers with the remote development environment realized by Microsoft!
 - 2018/12/19 **[オンプレLAMP環境を低コストで高可用なAzure PaaSへ移行しよう！](https://ascii.jp/elem/000/001/771/1771907/3/)** Azure Web App on Linux, which builds a modern web app execution environment in tens of seconds
 - 2018/10/25 **[オンプレ LAMP Stack はクラウド ネイティブな PaaS へ移行しよう](https://microsoft-events.connpass.com/event/105328/)** How to Use App Service for Fast and Comfortable Operation
-- 2020/03/27 **[「エンジニア」のためのリモートワーク](https://contacts.nissho-ele.co.jp/Azure_GitHub_20200327_LP.html)** Let's promote the reform of the working style of engineers with the remote development environment realized by Microsoft!
 
 ### :newspaper: Media Exposure
 - 2021/11/08 [Visual Studio 2022 × GitHub Codespaces × Azureで、デベロッパー・エコシステムを盛り上げろ！](https://zine.qiita.com/interview/202111-microsoft-github/)
@@ -53,4 +53,4 @@ In the past three years, I have translated more than 1100 articles into Japanese
 ### :busts_in_silhouette:	Community work
 - [**NoOps Community Lead**](https://noops.connpass.com/participation/) ```10+ Meetups``` ```1600+ Members```
 - **Azure Compete Community Founder** ```Inside Company``` ```30+ Meetups``` ```400+ Members``` ```2000+ Attendees```
-- **Agile Labs Community** ```Inside Company``` ```10+ Meetups``` ```300+ Members``` ```1500 Attendees```
+- **Agile Labs Community Founder** ```Inside Company``` ```10+ Meetups``` ```300+ Members``` ```1500 Attendees```
