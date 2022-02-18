@@ -26,7 +26,7 @@
 - 2018/10/25 **[オンプレ LAMP Stack はクラウド ネイティブな PaaS へ移行しよう](https://microsoft-events.connpass.com/event/105328/)** How to Use App Service for Fast and Comfortable Operation
 - 2020/03/27 **[「エンジニア」のためのリモートワーク](https://contacts.nissho-ele.co.jp/Azure_GitHub_20200327_LP.html)** Let's promote the reform of the working style of engineers with the remote development environment realized by Microsoft!
 
-## :newspaper: Media Exposure
+### :newspaper: Media Exposure
 - 2021/11/08 [Visual Studio 2022 × GitHub Codespaces × Azureで、デベロッパー・エコシステムを盛り上げろ！](https://zine.qiita.com/interview/202111-microsoft-github/)
 - 2021/10/11 [CI/CD Conference 2021 MicrosoftとGitHubの連携をMSKKのアーキテクトが解説](https://thinkit.co.jp/article/18824)
 - 2021/10/07 [レガシーな開発チームがクラウドネイティブ開発環境にたどりつくまでの道のり](https://www.itmedia.co.jp/business/articles/2110/07/news001.html)
@@ -44,7 +44,7 @@
 - ガス会社の事例に学ぶ『クラウド時代の新規事業のやり方』とは [```ITmedia```](https://www.itmedia.co.jp/business/articles/2107/08/news002.html) [```Microsoft```](https://customers.microsoft.com/ja-jp/story/1419627181105204902-tobu-gas-ja-japan) [```YouTube```](https://www.youtube.com/watch?v=nKKf97hrR2Y)
 - ベルシステム24 はどのようにして開発体制を変えたのか?  [```Mynavi```](https://news.mynavi.jp/techplus/kikaku/azure_case_td-83/) [```Microsoft```](https://customers.microsoft.com/ja-jp/story/737100-bellsystem24-professional-services-azure-jp-japan?ln=ja-jp)
 
-## :black_nib: Writing 
+### :black_nib: Writing 
 - [Azure Updates JP](https://azureupdatesj.wordpress.com/) ```1100+ Articles```
 When the official Azure updates were not yet translated into Japanese, I provided all Japanese translations to the Japanese Azure community.
 In the past three years, I have translated more than 1100 articles into Japanese.
