@@ -1,7 +1,7 @@
 :point_right: [```Detail ```](/DETAIL.md)
 
 ### :mega: Public speaking
-- 2022/03/17 **[Microsoft Startup Day](https://aka.ms/tobedecided)** ```KeyNote``` Future of GitHub Development Community
+- 2022/03/17 **[Microsoft Startup Day](https://www.microsoft.com/ja-jp/biz/startups/default.aspx)** ```KeyNote``` Future of GitHub Development Community
 - 2022/02/03 **[Microsoft Developer Days](https://msevents.microsoft.com/event?id=1619975101)** ```BS10``` [```resource```](https://www.slideshare.net/microsoftjp/bs10microsoft-github) Drive your development with the Microsoft and GitHub development ecosystem!
 - 2021/09/03 **[CI/CD Conference 2021 by CloudNative Days](https://event.cloudnativedays.jp/cicd2021)** The GitHub Ecosystem ~ GitHub Actions, Codespaces and Copilot
 - 2021/08/24 **[GitHub Codespaces Launch Event](https://mktoevents.com/Microsoft+Event/287192/157-GQE-382?Dev_YT=PET3035075)** The future of development is here now! Use GitHub Codespaces to drive your development!
