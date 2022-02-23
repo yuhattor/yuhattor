@@ -1,7 +1,7 @@
 :point_right: [```Detail ```](/DETAIL.md)
 
 ### :mega: Public speaking
-- 2022/03/17 **[Microsoft Startup Day](https://www.microsoft.com/ja-jp/biz/startups/default.aspx)** ```KeyNote``` Future of GitHub Development Community
+- 2022/03/17 **Microsoft Startup Day** ```KeyNote``` Future of GitHub Developers' Community
 - 2022/02/03 **[Microsoft Developer Days](https://msevents.microsoft.com/event?id=1619975101)** ```BS10``` [```resource```](https://www.slideshare.net/microsoftjp/bs10microsoft-github) Drive your development with the Microsoft and GitHub development ecosystem!
 - 2021/09/03 **[CI/CD Conference 2021 by CloudNative Days](https://event.cloudnativedays.jp/cicd2021)** The GitHub Ecosystem ~ GitHub Actions, Codespaces and Copilot
 - 2021/08/24 **[GitHub Codespaces Launch Event](https://mktoevents.com/Microsoft+Event/287192/157-GQE-382?Dev_YT=PET3035075)** The future of development is here now! Use GitHub Codespaces to drive your development!
@@ -35,7 +35,7 @@
 - 2021/03/04 [MicrosoftがGitHubで実践するインナーソースの取り組みとは？【デブサミ2021】](https://codezine.jp/article/detail/13685)
 - 2020/04/07 [IT人材不足が約43万人に拡大する2025年に向け、DXを支える開発者に快適な環境とツールが必要な理由](https://atmarkit.itmedia.co.jp/ait/articles/2004/07/news004.html)
 - 2020/04/02 [GitHubやMicrosoftが機能リリースする舞台裏](https://codezine.jp/article/detail/12089)
-- 2020/02/27 [Azureとのコラボレーションによる、これからのワークスタイルとは](https://codezine.jp/article/detail/12089)
+- 2020/02/27 [Azureとのコラボレーションによる、これからのワークスタイルとは](https://thinkit.co.jp/article/17316)
 - 2018/12/19 [オンプレLAMP環境を低コストで高可用なAzure PaaSへ移行しよう！](https://ascii.jp/elem/000/001/771/1771907/3/)
 - 2017/12/11 [日本マイクロソフトが「Microsoft Azure 徹底活用フェス@渋谷」を開催](https://enterprisezine.jp/article/detail/10168)
 - 2016/11/07 [クラウド時代には、なぜ「ログ分析」が重要になるのか](https://atmarkit.itmedia.co.jp/ait/articles/1611/07/news010.html)
