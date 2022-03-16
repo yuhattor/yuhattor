@@ -1,7 +1,5 @@
 Public Speaking / Media Exposure / Cases / Writing /Community Activity
 
-:point_right: [```Overview ```](/OVERVIEW.md)
+:point_right: [```Overview```](/OVERVIEW.md) / ([```Detail```](/DETAIL.md))
 
-:point_right: [```Detail```](/DETAIL.md)
-
-Blog: https://propwave.jp/
+:point_right: [```Blog```](https://propwave.jp/)
