@@ -1,7 +1,8 @@
 :point_right: [```Detail ```](/DETAIL.md)
 
 ### :mega: Public speaking
-- 2022/03/17 **Day One – CTO/VPoE Conference 2022** ```A1``` [```YouTube```](https://www.youtube.com/watch?v=wQSb3gK5iBY&list=LL&index=5) GitHub and Microsoft's DAY ONE - InnerSource could be a must in future
+- 2022/05/24 **[Microsoft Build Japan](https://mybuild.microsoft.com/en-US/home?wt.mc_id=build2022_fld_ja_bn_pd_sem_gl&aaid=gse)** ```KeyNote``` DevSecOps and cloud developer environments
+- 2022/04/08 **[Day One – CTO/VPoE Conference 2022](https://cto-a.org/news/2022/03/01/7385/)** ```A1``` [```YouTube```](https://www.youtube.com/watch?v=wQSb3gK5iBY&list=LL&index=5) [```resource```](https://speakerdeck.com/yuhattor/a1-jin-hou-que-shi-nibi-yao-ninaru-innersource-github-to-microsoft-false-day-one) GitHub and Microsoft's DAY ONE - InnerSource could be a must in future
 - 2022/02/03 **[Microsoft Developer Days](https://msevents.microsoft.com/event?id=1619975101)** ```BS10``` [```resource```](https://www.slideshare.net/microsoftjp/bs10microsoft-github) [```YouTube```](https://www.youtube.com/watch?v=TV8VcXwRcp4) Drive your development with the Microsoft and GitHub development ecosystem!
 - 2021/09/03 **[CI/CD Conference 2021 by CloudNative Days](https://event.cloudnativedays.jp/cicd2021)** The GitHub Ecosystem ~ GitHub Actions, Codespaces and Copilot
 - 2021/08/24 **[GitHub Codespaces Launch Event](https://mktoevents.com/Microsoft+Event/287192/157-GQE-382?Dev_YT=PET3035075)** The future of development is here now! Use GitHub Codespaces to drive your development!
