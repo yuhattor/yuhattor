@@ -1,8 +1,8 @@
 :point_right: [```Detail ```](/DETAIL.md)
 
 ### :mega: Public speaking
-- 2022/03/17 **Microsoft Startup Day** ```KeyNote``` Future of GitHub Developers' Community
-- 2022/02/03 **[Microsoft Developer Days](https://msevents.microsoft.com/event?id=1619975101)** ```BS10``` [```resource```](https://www.slideshare.net/microsoftjp/bs10microsoft-github) Drive your development with the Microsoft and GitHub development ecosystem!
+- 2022/03/17 **Day One – CTO/VPoE Conference 2022** ```A1``` [```YouTube```](https://www.youtube.com/watch?v=wQSb3gK5iBY&list=LL&index=5) GitHub and Microsoft's DAY ONE - InnerSource could be a must in future
+- 2022/02/03 **[Microsoft Developer Days](https://msevents.microsoft.com/event?id=1619975101)** ```BS10``` [```resource```](https://www.slideshare.net/microsoftjp/bs10microsoft-github) [```YouTube```](https://www.youtube.com/watch?v=TV8VcXwRcp4) Drive your development with the Microsoft and GitHub development ecosystem!
 - 2021/09/03 **[CI/CD Conference 2021 by CloudNative Days](https://event.cloudnativedays.jp/cicd2021)** The GitHub Ecosystem ~ GitHub Actions, Codespaces and Copilot
 - 2021/08/24 **[GitHub Codespaces Launch Event](https://mktoevents.com/Microsoft+Event/287192/157-GQE-382?Dev_YT=PET3035075)** The future of development is here now! Use GitHub Codespaces to drive your development!
 - 2021/03/25 **[GitHub Enterprise Summit](https://resources.github.com/webcasts/Japan-Enterprise-Summit-thankyou/)**  [```resource```](https://resources.github.com/webcasts/Japan-Enterprise-Summit-thankyou/) Developer Velocity: What is a Cloud Service to Support Enhanced Development Performance in the New Normal?
