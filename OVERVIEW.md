@@ -52,6 +52,7 @@ In the past three years, I have translated more than 1100 articles into Japanese
 - [Qiita](https://qiita.com/yuhattor) ```10+ Articles```
 
 ### :busts_in_silhouette:	Community work
+- [**InnerSource Commons Japan Founder**](https://innersourcecommons.connpass.com/) 
 - [**NoOps Community Lead**](https://noops.connpass.com/participation/) ```10+ Meetups``` ```1600+ Members```
 - **Azure Compete Community Founder** ```Inside Company``` ```30+ Meetups``` ```400+ Members``` ```2000+ Attendees```
 - **Agile Labs Community Founder** ```Inside Company``` ```10+ Meetups``` ```300+ Members``` ```1500 Attendees```
