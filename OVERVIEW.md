@@ -27,6 +27,7 @@
 - 2018/10/25 **[オンプレ LAMP Stack はクラウド ネイティブな PaaS へ移行しよう](https://microsoft-events.connpass.com/event/105328/)** How to Use App Service for Fast and Comfortable Operation
 
 ### :newspaper: Media Exposure
+- 2022/08/17 [AIがソースコードを自動生成、サービス続々登場も過度な信頼は禁物なワケ](https://xtech.nikkei.com/atcl/nxt/column/18/02162/081500002/)
 - 2021/11/08 [Visual Studio 2022 × GitHub Codespaces × Azureで、デベロッパー・エコシステムを盛り上げろ！](https://zine.qiita.com/interview/202111-microsoft-github/)
 - 2021/10/11 [CI/CD Conference 2021 MicrosoftとGitHubの連携をMSKKのアーキテクトが解説](https://thinkit.co.jp/article/18824)
 - 2021/10/07 [レガシーな開発チームがクラウドネイティブ開発環境にたどりつくまでの道のり](https://www.itmedia.co.jp/business/articles/2110/07/news001.html)
