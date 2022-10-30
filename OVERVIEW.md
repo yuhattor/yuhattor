@@ -1,4 +1,5 @@
 ### :mega: Public speaking
+- 2022/09/30 **[Microsoft & GitHub DevOps Day 2022]()** ```KeyNote``` [```YouTube```](https://youtu.be/NDUeLIJCigQ?t=907) Getting Started with DevSecOps
 - 2022/05/24 **[Microsoft Build Japan](https://mybuild.microsoft.com/en-US/home?wt.mc_id=build2022_fld_ja_bn_pd_sem_gl&aaid=gse)** ```KeyNote``` [```YouTube```](https://www.youtube.com/watch?v=2-TioOyPgLw) DevSecOps and cloud developer environments
 - 2022/04/08 **[Day One – CTO/VPoE Conference 2022](https://cto-a.org/news/2022/03/01/7385/)** ```A1``` [```YouTube```](https://www.youtube.com/watch?v=wQSb3gK5iBY&list=LL&index=5) [```resource```](https://speakerdeck.com/yuhattor/a1-jin-hou-que-shi-nibi-yao-ninaru-innersource-github-to-microsoft-false-day-one) GitHub and Microsoft's DAY ONE - InnerSource could be a must in future
 - 2022/02/03 **[Microsoft Developer Days](https://msevents.microsoft.com/event?id=1619975101)** ```BS10``` [```resource```](https://www.slideshare.net/microsoftjp/bs10microsoft-github) [```YouTube```](https://www.youtube.com/watch?v=TV8VcXwRcp4) Drive your development with the Microsoft and GitHub development ecosystem!
