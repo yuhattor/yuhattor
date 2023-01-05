@@ -1,7 +1,6 @@
 ### :mega: Public speaking
 
 - 2022/11/17 **[InnerSource Summit 2022](https://innersourcecommons.org/events/isc-2022/)** [```YouTube```](https://www.youtube.com/watch?v=mRkARBXn1K4) Learning from the InnerSource Commons Japanese community 
-- 2022/11/17 **[InnerSource Summit 2022](https://innersourcecommons.org/events/isc-2022/)** Comming soon
 - 2022/10/1 **[XP festival (XP祭り2022)](https://confengine.com/conferences/xp2022/proposal/17101/innersource)** ```H Track``` [```resource```](https://speakerdeck.com/yuhattor/innersource-nei-zhi-hua-no-bu-xian-wojian-tumerukotonogong-tong-suo-you-noqu-rizu-mi) InnerSource: Co-ownership of Code Looking One Step Ahead of In-House Production
 - 2022/09/30 **[Microsoft & GitHub DevOps Day 2022](https://ascii.jp/devopsday2022/)** ```KeyNote``` [```YouTube```](https://youtu.be/NDUeLIJCigQ?t=907) Getting Started with DevSecOps (700+ audience)
 - 2022/05/24 **[Microsoft Build Japan](https://mybuild.microsoft.com/en-US/home?wt.mc_id=build2022_fld_ja_bn_pd_sem_gl&aaid=gse)** ```KeyNote``` [```YouTube```](https://www.youtube.com/watch?v=2-TioOyPgLw) DevSecOps and cloud developer environments
