@@ -1,4 +1,6 @@
 ### :mega: Public speaking
+
+- 2022/11/17 **[InnerSource Summit 2022](https://innersourcecommons.org/events/isc-2022/)** [```YouTube```](https://www.youtube.com/watch?v=mRkARBXn1K4) Learning from the InnerSource Commons Japanese community 
 - 2022/11/17 **[InnerSource Summit 2022](https://innersourcecommons.org/events/isc-2022/)** Comming soon
 - 2022/10/1 **[XP festival (XP祭り2022)](https://confengine.com/conferences/xp2022/proposal/17101/innersource)** ```H Track``` [```resource```](https://speakerdeck.com/yuhattor/innersource-nei-zhi-hua-no-bu-xian-wojian-tumerukotonogong-tong-suo-you-noqu-rizu-mi) InnerSource: Co-ownership of Code Looking One Step Ahead of In-House Production
 - 2022/09/30 **[Microsoft & GitHub DevOps Day 2022](https://ascii.jp/devopsday2022/)** ```KeyNote``` [```YouTube```](https://youtu.be/NDUeLIJCigQ?t=907) Getting Started with DevSecOps (700+ audience)
@@ -22,6 +24,8 @@
 
 
 ### :computer: Seminar
+- 2022/12/22 **[GitHubと Microsoft Azure で実装する DevSecOps
+](https://mktoevents.com/Microsoft+Event/373458/157-GQE-382)** [```YouTube```](https://youtu.be/PEEzWxxT1CE) DevSecOps implemented with GitHub and Microsoft Azure
 
 - 2021/09/22 **[クラウドにおけるコンテナ移行のすすめ](https://aka.ms/Container0922JP)** Recommendations for Container Migration in the Cloud
 - On Demand **[App Innovation](https://info.microsoft.com/JA-AzureApp-WBNR-FY20-04Apr-23-AzureAppInnovationMeetAzureforDevelopers-SRDEM19296_LP02OnDemandRegistration-ForminBody.html)** Let's use git repository and CI/CD tools
